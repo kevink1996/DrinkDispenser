@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+}
+p{
+    font-size: 2.5em;
+}
+.button{
+  background-color: #008CBA;
+  font-size: 2em;
+  border-radius:50%;
+  width:50%;
+}
+#drink1html{
+  width: 50%;
+  float: left;
+
+}
+#drink2html{
+  float: left;
+  width: 50%;
+
+
+}
+#bothButton{
+  float: none;
+  width: 50%;
+  text-align:center;
+}
